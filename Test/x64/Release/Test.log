@@ -1,0 +1,10 @@
+﻿  SerialComms.cpp
+C:\Users\Admin\Documents\Graycode\SerialComms\Test\SerialComms.cpp(140,18): warning C4305: 'return': truncation from 'BOOL (__cdecl *)(HANDLE,LPCVOID,DWORD,LPDWORD,LPOVERLAPPED)' to 'bool'
+C:\Users\Admin\Documents\Graycode\SerialComms\Test\SerialComms.cpp(154,18): warning C4305: 'return': truncation from 'BOOL (__cdecl *)(HANDLE,LPCVOID,DWORD,LPDWORD,LPOVERLAPPED)' to 'bool'
+C:\Users\Admin\Documents\Graycode\SerialComms\Test\SerialComms.cpp(167,18): warning C4305: 'return': truncation from 'BOOL (__cdecl *)(HANDLE,LPCVOID,DWORD,LPDWORD,LPOVERLAPPED)' to 'bool'
+C:\Users\Admin\Documents\Graycode\SerialComms\Test\SerialComms.cpp(204,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Test.vcxproj -> C:\Users\Admin\Documents\Graycode\SerialComms\x64\Release\SerialComms.exe
